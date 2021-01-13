@@ -22410,7 +22410,7 @@
             if (P.a0S(a).gFb()) return P.a1c(C.m8, a, C.ab, !1)
             s = this.gLz()
             if (s == null) s = ""
-            return P.a1c(C.m8, s + ("https://sukhani13.github.io/space-weight-web-/assets/" + H.b(a)), C.ab, !1)
+            return P.a1c(C.m8, s + ("https://sukhani13.github.io/space-weight-web-/" + H.b(a)), C.ab, !1)
         },
         cJ: function (a, b) { return this.WQ(a, b) },
         WQ: function (a, b) {
