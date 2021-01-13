@@ -22410,7 +22410,7 @@
             if (P.a0S(a).gFb()) return P.a1c(C.m8, a, C.ab, !1)
             s = this.gLz()
             if (s == null) s = ""
-            return P.a1c(C.m8, s + ("assets/" + H.b(a)), C.ab, !1)
+            return P.a1c(C.m8, s + ("https://sukhani13.github.io/space-weight-web-/assets/" + H.b(a)), C.ab, !1)
         },
         cJ: function (a, b) { return this.WQ(a, b) },
         WQ: function (a, b) {
@@ -75679,7 +75679,7 @@
             o = C.a8.h(0, 400)
             n = l.f ? "kg" : "lbs"
             m = t.fQ
-            m = M.cM(C.a5, T.J9(H.d([s, r, T.mD(H.d([p, M.cM(k, D.a4a(T.Lg(L.cE(n, k, k, k, A.c9(k, k, C.j, k, k, k, k, k, k, k, k, j ? i / 75 : h / 70, k, C.aj, k, k, !0, 1.4, k, k, k, k, k), k), C.j6), C.ya, new Y.Wi(l)), o, k, k, q, k, k, h / 8)], m), C.qg, C.b7), M.cM(k, new B.oD(i, l.e, k), k, k, k, k, new V.aD(0, i / 18, 0, 0), k, h / 1.4)], m), C.hx, C.ib, C.b7), k, k, new S.ey(k, new X.wT(new L.on("assets/Assets/space.jpg"), C.oU), k, k, k, k, C.ai), k, k, k, k)
+            m = M.cM(C.a5, T.J9(H.d([s, r, T.mD(H.d([p, M.cM(k, D.a4a(T.Lg(L.cE(n, k, k, k, A.c9(k, k, C.j, k, k, k, k, k, k, k, k, j ? i / 75 : h / 70, k, C.aj, k, k, !0, 1.4, k, k, k, k, k), k), C.j6), C.ya, new Y.Wi(l)), o, k, k, q, k, k, h / 8)], m), C.qg, C.b7), M.cM(k, new B.oD(i, l.e, k), k, k, k, k, new V.aD(0, i / 18, 0, 0), k, h / 1.4)], m), C.hx, C.ib, C.b7), k, k, new S.ey(k, new X.wT(new L.on("Assets/space.jpg"), C.oU), k, k, k, k, C.ai), k, k, k, k)
             return new M.r0(new E.AI(!0, new T.iw(new S.az(0, 1 / 0, i, 1 / 0), m, k), k), k)
         }
     }
